@@ -1,23 +1,35 @@
 {
   "files": {
-    "main.css": "/memory-card-game/static/css/main.a617e044.chunk.css",
-    "main.js": "/memory-card-game/static/js/main.92f99a32.chunk.js",
-    "main.js.map": "/memory-card-game/static/js/main.92f99a32.chunk.js.map",
-    "runtime-main.js": "/memory-card-game/static/js/runtime-main.19960fd4.js",
-    "runtime-main.js.map": "/memory-card-game/static/js/runtime-main.19960fd4.js.map",
-    "static/js/2.203c66f1.chunk.js": "/memory-card-game/static/js/2.203c66f1.chunk.js",
-    "static/js/2.203c66f1.chunk.js.map": "/memory-card-game/static/js/2.203c66f1.chunk.js.map",
-    "static/js/3.d5d950d1.chunk.js": "/memory-card-game/static/js/3.d5d950d1.chunk.js",
-    "static/js/3.d5d950d1.chunk.js.map": "/memory-card-game/static/js/3.d5d950d1.chunk.js.map",
+    "main.css": "/memory-card-game/static/css/main.d5307128.chunk.css",
+    "main.js": "/memory-card-game/static/js/main.85f6c940.chunk.js",
+    "main.js.map": "/memory-card-game/static/js/main.85f6c940.chunk.js.map",
+    "runtime-main.js": "/memory-card-game/static/js/runtime-main.daf81cc3.js",
+    "runtime-main.js.map": "/memory-card-game/static/js/runtime-main.daf81cc3.js.map",
+    "static/js/2.88ddb8e1.chunk.js": "/memory-card-game/static/js/2.88ddb8e1.chunk.js",
+    "static/js/2.88ddb8e1.chunk.js.map": "/memory-card-game/static/js/2.88ddb8e1.chunk.js.map",
     "index.html": "/memory-card-game/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/memory-card-game/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.203c66f1.chunk.js.LICENSE.txt": "/memory-card-game/static/js/2.203c66f1.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/memory-card-game/static/media/logo.6ce24c58.svg"
+    "static/css/main.d5307128.chunk.css.map": "/memory-card-game/static/css/main.d5307128.chunk.css.map",
+    "static/js/2.88ddb8e1.chunk.js.LICENSE.txt": "/memory-card-game/static/js/2.88ddb8e1.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/memory-card-game/static/media/background.aaa5a0a2.png",
+    "static/media/gara.844d34ff.jpg": "/memory-card-game/static/media/gara.844d34ff.jpg",
+    "static/media/itachi.206599c1.jpg": "/memory-card-game/static/media/itachi.206599c1.jpg",
+    "static/media/jaraiya.bebee74a.jpg": "/memory-card-game/static/media/jaraiya.bebee74a.jpg",
+    "static/media/kakashi.b7cb6337.jpg": "/memory-card-game/static/media/kakashi.b7cb6337.jpg",
+    "static/media/kisame.1421c282.jpg": "/memory-card-game/static/media/kisame.1421c282.jpg",
+    "static/media/loading.59604e7e.gif": "/memory-card-game/static/media/loading.59604e7e.gif",
+    "static/media/madara.8d534246.jpg": "/memory-card-game/static/media/madara.8d534246.jpg",
+    "static/media/might.36cba666.jpg": "/memory-card-game/static/media/might.36cba666.jpg",
+    "static/media/naruto.2237d4ee.jpg": "/memory-card-game/static/media/naruto.2237d4ee.jpg",
+    "static/media/neji.3c7365b1.jpg": "/memory-card-game/static/media/neji.3c7365b1.jpg",
+    "static/media/obito.5b260176.jpg": "/memory-card-game/static/media/obito.5b260176.jpg",
+    "static/media/rock.2d5b7e0e.jpg": "/memory-card-game/static/media/rock.2d5b7e0e.jpg",
+    "static/media/shikamaru.1ac0e5cc.jpg": "/memory-card-game/static/media/shikamaru.1ac0e5cc.jpg",
+    "static/media/yahiko.7317476e.jpg": "/memory-card-game/static/media/yahiko.7317476e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.19960fd4.js",
-    "static/js/2.203c66f1.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.92f99a32.chunk.js"
+    "static/js/runtime-main.daf81cc3.js",
+    "static/js/2.88ddb8e1.chunk.js",
+    "static/css/main.d5307128.chunk.css",
+    "static/js/main.85f6c940.chunk.js"
   ]
 }
